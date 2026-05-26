@@ -15,7 +15,6 @@
 - [Gustavo](https://github.com/GusTTrand)
 - [João](https://github.com/JVYazbek)
 - [Luccas Toffano](https://github.com/toffan0)
-- [Ricardo](https://github.com/Quengue)
 
 ## Objetivos do Projeto
 
