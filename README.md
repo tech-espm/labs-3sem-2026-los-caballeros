@@ -49,7 +49,6 @@ Configurações identificadas no projeto:
 - **Versão do Phaser:** 3.88.2
 - **Tipo de projeto:** jogo web em JavaScript
 
-
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/labs-3sem-2026-los-caballeros/blob/main/LICENSE).
