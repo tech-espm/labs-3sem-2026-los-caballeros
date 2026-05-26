@@ -49,19 +49,6 @@ Configurações identificadas no projeto:
 - **Versão do Phaser:** 3.88.2
 - **Tipo de projeto:** jogo web em JavaScript
 
-Para executar o projeto corretamente, recomenda-se abrir a pasta em um servidor local, como a extensão **Live Server** do Visual Studio Code, pois o jogo utiliza módulos JavaScript.
-
-Também é possível rodar com Python usando o comando:
-
-```bash
-python -m http.server 8000
-```
-
-Depois, basta acessar no navegador:
-
-```text
-http://localhost:8000
-```
 
 ## Licença
 
